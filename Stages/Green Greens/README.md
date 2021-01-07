@@ -1,7 +1,7 @@
 ![v0.7a](overview.png "v0.7a")
 ![v0.7a](bounds.png "v0.7a")
 # Notes
-This stage is really fun. The ledges have small slopes, and many characters can Doraki (not Fox, though). The blast height is even lower than Yoshi's Story, but without a top platform, it doesn't feel like it.
+This stage is really fun. The ledges have small slopes, and many characters can Doraki (not Fox, though). The blast height is even lower than Yoshi's Story, but without a top platform, it doesn't feel like it. The side blastzones are unchanged from the vanilla stage, so many characters can still utilize their recoveries.
 
 # Current Changes
 * Blast height: 197 -> 222
