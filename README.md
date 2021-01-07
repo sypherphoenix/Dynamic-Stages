@@ -48,4 +48,4 @@ When players think about stage elements, they generally only consider static one
 
 # Installation & Playing on These Stages
 
-### WIP
+Haha. I bet you thought I was going to write something here. Sorry, this is still WIP. This stage pack is only for exafold gigachad technomancers right now. Come back later.
