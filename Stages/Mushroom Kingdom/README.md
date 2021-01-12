@@ -16,6 +16,7 @@ This stage also has some non-obvious geometry on the walls in order to prevent C
 
 # To-do
 * Fix spawn locations
+* Fix Camera
 * Fix graphical errors
 * More testing for full release
 	* Platform respawn time?
