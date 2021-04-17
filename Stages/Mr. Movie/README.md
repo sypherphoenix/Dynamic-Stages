@@ -1,4 +1,4 @@
-![v0.61](mm_overview.gif "v0.61")
+<img src="mm_overview.gif" alt="v0.61" width="480"/>
 
 # Notes
 Done at the request of PGH Carroll. This stage is relatively simple. When platforms are moving fast enough, it becomes really obvious that they don't obey normal physics. Jumping from a moving platform will have your character move straight up relative to the stage rather than platform. 

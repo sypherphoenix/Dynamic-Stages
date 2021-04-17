@@ -1,9 +1,9 @@
 # Stages from the Creative Melee Discord
-![wanderer's](wanderer's.png "The Wanderer & PGH Carroll")
-![ww_alt](ww_alt.jpg "The Wanderer")
-![lava](wanderer_lava.jpg "The Wanderer")
-![movies](movies.png "PGH Carroll")
-![kj64_mod](kj64_mod.png "PGH Carroll")
+<img src="wanderer's.png" alt="The Wanderer & PGH Carroll" width="480"/>
+<img src="ww_alt.jpg" alt="The Wanderer" width="480"/>
+<img src="wanderer_lava.jpg" alt="The Wanderer" width="480"/>
+<img src="movies.png" alt="PGH Carroll" width="480"/>
+<img src="kj64_mod.png" alt="PGH Carroll" width="480"/>
 
 # Some stages, circa 2014
 ![oldstages](somestages.png "Don't hold me to 2020 standards!!")

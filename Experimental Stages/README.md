@@ -10,9 +10,7 @@ Japes' water will still affect players standing on platforms.
 Suddenly this stage is very different, and still playable. I think it could be better, still.
 
 ## GrOy Ledge Experiment
-<img src="groyexp.png" alt="Experimental" width="240"/>
-<img src="groyexp_m.gif" alt="Experimental" width="240"/>
-<img src="groyexp_geom.png" alt="Experimental" width="240"/>
+<img src="groyexp.png" alt="Experimental" width="240"/><img src="groyexp_m.gif" alt="Experimental" width="240"/><img src="groyexp_geom.png" alt="Experimental" width="240"/>
 
 This stage breaks running even when the side platforms are perfectly aligned. Try dashing from the center of the stage to the clouds. Interestingly, the inner ledges are not grabbable until the side platforms disappear.
 

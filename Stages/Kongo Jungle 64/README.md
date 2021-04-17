@@ -1,4 +1,4 @@
-![v0.2h](draft.png "v0.2h")
+<img src="draft.png" alt="v0.2h" width="720"/>
 
 # Notes
 Rather than removing the barrel, I tried to fix what people might consider bad behavior from the barrel. The random rotation and position are removed and the barrel won't give you a second lease on life. Players will not be able to sit in the barrel and will have no choice in being blasted out immediately.
