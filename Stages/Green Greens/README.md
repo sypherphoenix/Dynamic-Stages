@@ -11,7 +11,7 @@ This stage is really fun. The strategies used on this stage are pretty different
 * Camera zoom minimum: 83 -> 124
 * P3 spawn position: (-100,-3) -> (40,42)
 * P4 spawn position: (100,-3) -> (-40,42)
-* Lower wall collision points moved in slightly to prevent IWJ
+* Lower wall collision points moved in slightly to prevent C.Falcon's IWJ
 	* (±59,-25) -> (±57.5,-25)
 	* (±55,-40.5) -> (±54,-40.5)
 
